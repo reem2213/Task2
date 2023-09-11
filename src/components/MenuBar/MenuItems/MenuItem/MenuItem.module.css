@@ -1,0 +1,40 @@
+.menubar-list{
+    margin-top: 5px;
+    height: auto;
+    padding: 0;
+    width: 100%;
+}
+.menubar-list .row{
+    width: 99%;
+    height: 50px;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    margin:0%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family:sans-serif;
+    font-size: 18px;
+}
+.menubar-list .row:hover{
+    cursor: pointer;
+    background-color: rgb(167, 127, 174);
+}
+.row .icon{
+    flex: 20%;
+    display: grid;
+    place-items: center;
+
+}
+.row .menubar-icon{
+    flex: 20%;
+    display: grid;
+    place-items:center;
+    margin-left: 50px;
+    
+}
+.row .title{
+    flex: 90%;
+}
+
