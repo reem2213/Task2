@@ -1,0 +1,78 @@
+.header{
+    border: 3px solid rgb(241, 239, 239);
+    width: 112.5rem;
+    height: 70px;
+    
+}
+.navbar-button{
+    width:77px;
+    height: 72px;
+    margin-left: 298px;
+    margin-top: 0;
+    color: rgb(107, 100, 100);
+    font-size: 25px;
+    border: 1px solid rgb(241, 239, 239);
+    position: fixed;
+    background-color: white;
+} 
+.navbar-button:hover{
+    cursor: pointer;
+    background-color:aliceblue;
+}
+
+h1{
+    font-size: 30px;
+    position: fixed;
+    margin-top: 12px;
+    margin-left: 400px;
+    color:rgb(72, 71, 71);
+}
+.post{
+    font-size: 20px;
+    position: fixed;
+    margin-top: 18px;
+    margin-left: 550px;
+    color: rgb(169, 162, 162);
+}
+.status{
+    background-color: rgb(117, 160, 51);
+    border: 0px;
+    border-radius: 15px;
+    margin-left: 1520px;
+    width:15px;
+    height: 16px;
+    margin-top: 25px;
+
+}
+
+span{
+    margin-top: 15px;
+    font-size: 25px;
+    position: fixed;
+    margin-left: 1550px;
+    color: rgb(94, 92, 92);
+    
+
+}
+.calendar-icon{
+    margin-top: 18px;
+    margin-left: 1680px;
+    font-size: 30px;
+    color:rgb(74, 74, 74);
+
+}
+
+.save-button{
+    /* position: fixed; */
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    border: 0px;
+    background-color: rgb(233, 230, 230);
+    border-radius: 5px;
+    margin-left: 1760px;
+    margin-top: 0px;
+}
+
+
+
