@@ -1,0 +1,101 @@
+.card{
+    width: 1200px;
+    height: 120px;
+    margin-left: 500px;
+    /* margin-top: 0px; */
+    position: fixed;
+        
+}
+.card .h2{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(76, 75, 75);
+}
+
+.card .h2 .p{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(139, 137, 137);
+}
+.card2{
+    width: 1350px;
+    height: 80px;
+    margin-left: 450px;
+    margin-top: 170px;
+    position: fixed;
+        
+}
+.card2 h1{
+    font-size: 30px;
+    margin-left: 15px;
+    color:rgb(72, 71, 71);}
+.card3{
+    width: 1350px;
+    height: 550px;
+    margin-left: 450px;
+    margin-top: 250px;
+    position: fixed;
+        
+}
+.card4{
+    width: 1200px;
+    height: 300px;
+    margin-left: 75px;
+    margin-top: 5px;
+    position: fixed;
+    background-color: rgb(242, 239, 239);
+        
+}
+p{
+    margin-top: 20px;
+}
+.card3 .p{
+    margin-left: 75px;
+    padding-top: 35px;
+    color: rgb(164, 161, 161);
+    font-size: 20px;
+}
+img{
+    width:400px;
+    height: 250px;
+    margin-left: 400px;
+    margin-top: 25px;
+}
+.card3 .span{
+    position: fixed;
+    margin-left: 600px;
+    margin-top: 320px;
+    font-size: 20px;
+    color: rgb(164, 161, 161);
+}
+.card5{
+    width: 1200px;
+    height: 50px;
+    margin-left: 75px;
+    margin-top: 400px;
+    position: fixed;
+        
+}
+.card5 .span2{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 18px;
+    color:rgb(94, 93, 93);
+    position: fixed;
+
+}
+.card3 .e {
+    color: rgb(159, 156, 156);
+    margin-left: 80px;
+    margin-top: 360px;
+    position: fixed;
+    font-size: 20px;
+
+}
